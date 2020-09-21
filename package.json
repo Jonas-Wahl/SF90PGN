@@ -1,0 +1,26 @@
+{
+  "name": "de.sf90spraitbach.pgn",
+  "version": "1.0.0",
+  "displayName": "SF90PGN",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-console": {},
+      "cordova-plugin-statusbar": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^7.1.4",
+    "cordova-plugin-console": "~1.0.1",
+    "cordova-plugin-statusbar": "~1.0.1",
+    "cordova-plugin-whitelist": "~1.2.0"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "~1.2.0",
+    "cordova-plugin-console": "~1.0.1",
+    "cordova-plugin-statusbar": "~1.0.1"
+  }
+}
