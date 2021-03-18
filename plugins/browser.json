@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "de.sf90spraitbach.pgn"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "de.sf90spraitbach.pgn"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "de.sf90spraitbach.pgn"
+        }
+    },
+    "dependent_plugins": {}
+}
