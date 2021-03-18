@@ -13,14 +13,15 @@
     }
   },
   "dependencies": {
-    "cordova-android": "^7.1.4",
+    "cordova-plugin-console": "~1.0.1",
+    "cordova-plugin-statusbar": "~1.0.1",
+    "cordova-plugin-whitelist": "~1.2.0",
+    "gradle": "^1.2.3"
+  },
+  "devDependencies": {
+    "cordova-android": "^9.0.0",
     "cordova-plugin-console": "~1.0.1",
     "cordova-plugin-statusbar": "~1.0.1",
     "cordova-plugin-whitelist": "~1.2.0"
-  },
-  "devDependencies": {
-    "cordova-plugin-whitelist": "~1.2.0",
-    "cordova-plugin-console": "~1.0.1",
-    "cordova-plugin-statusbar": "~1.0.1"
   }
 }
